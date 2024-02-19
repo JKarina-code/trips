@@ -10,7 +10,7 @@ Discover many places in Argentina for your next trip.
 
 - [CSS](https://www.w3schools.com/Css/)
 - [HTML](https://www.w3schools.com/html/)
-- [JavaScript](https://www.w3schools.com/js)
+- [React](https://react.dev/)
 - [Git](https://git-scm.com/docs)
 
 
